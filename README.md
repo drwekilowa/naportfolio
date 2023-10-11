@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.faun.dev/prod/media/public/original_images/DevOps-min.gif)](https://github.com/drwekilowa)
+[![MasterHead](https://cdn.faun.dev/prod/media/public/original_images/DevOps-min.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nasiba Abdullayeva</h1>
 <h3 align="center">DevOps Engineer| Salesforce Admin</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"
