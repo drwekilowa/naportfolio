@@ -1,7 +1,7 @@
-[![MasterHead](https://cdn.faun.dev/prod/media/public/original_images/DevOps-min.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Nasiba Abdullayeva</h1>
+[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Nasiba A</h1>
 <h3 align="center">DevOps Engineer| Salesforce Admin</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drwekilowa&label=Profile%20views&color=0e75b6&style=flat" alt="drwekilowa" /> </p>
 
